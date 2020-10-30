@@ -16,7 +16,7 @@ You can just put your rules in to the compiler.py file and use it for yourself.
 this is how you can compile your code using compiler.py
 
 ```sh
-git clone https://github.com/danialkeimasi/python-compiler-symbol-table
+git clone https://github.com/danialkeimasi/python-compiler-symbol-table tokenizer
 cd tokenizer
 pip install -r requirements.txt
 python compiler.py random_program/main.cpp
